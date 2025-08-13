@@ -6,4 +6,4 @@ dns_prefix               = "aks1"
 
 node_pool_name           = "default"
 node_count               = 1
-vm_size                  = "Standard_D2_v2"
+vm_size                  = "standard_a2_v2"
